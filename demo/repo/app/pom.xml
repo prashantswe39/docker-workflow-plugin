@@ -33,7 +33,7 @@
 		<hibernate-validator.version>4.3.1.Final</hibernate-validator.version>
 
 		<!-- Database access -->
-		<tomcat-jdbc.version>7.0.42</tomcat-jdbc.version>
+		<tomcat-jdbc.version>7.0.109</tomcat-jdbc.version>
 		<ehcache.version>2.6.10</ehcache.version>
 		<hsqldb.version>2.3.2</hsqldb.version>
 
@@ -370,7 +370,7 @@
 				<version>3.0</version>
 				<configuration>
 					<compilerArguments>
-						<Xlint />
+						<Xlint/>
 					</compilerArguments>
 					<source>${java.version}</source>
 					<target>${java.version}</target>
