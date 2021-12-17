@@ -23,7 +23,7 @@
 		<!-- Java EE / Java SE dependencies -->
 		<jsp.version>2.2</jsp.version>
 		<jstl.version>1.2</jstl.version>
-		<tomcat.servlet.version>7.0.30</tomcat.servlet.version>
+		<tomcat.servlet.version>7.0.109</tomcat.servlet.version>
 		<jaxb-impl.version>2.2.7</jaxb-impl.version>
 
 		<!-- Hibernate / JPA -->
@@ -370,7 +370,7 @@
 				<version>3.0</version>
 				<configuration>
 					<compilerArguments>
-						<Xlint />
+						<Xlint/>
 					</compilerArguments>
 					<source>${java.version}</source>
 					<target>${java.version}</target>
