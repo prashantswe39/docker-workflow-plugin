@@ -17,7 +17,7 @@
 
 		<!-- Spring -->
 		<spring-framework.version>4.1.6.RELEASE</spring-framework.version>
-		<spring-data-jpa.version>1.8.0.RELEASE</spring-data-jpa.version>
+		<spring-data-jpa.version>2.5.10</spring-data-jpa.version>
 
 
 		<!-- Java EE / Java SE dependencies -->
@@ -370,7 +370,7 @@
 				<version>3.0</version>
 				<configuration>
 					<compilerArguments>
-						<Xlint />
+						<Xlint/>
 					</compilerArguments>
 					<source>${java.version}</source>
 					<target>${java.version}</target>
